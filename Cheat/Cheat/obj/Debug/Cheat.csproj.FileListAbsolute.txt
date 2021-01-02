@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Cheat\Cheat\bin\Debug\Cheat.exe.config
+C:\Users\Admin\source\repos\Cheat\Cheat\bin\Debug\Cheat.exe
+C:\Users\Admin\source\repos\Cheat\Cheat\bin\Debug\Cheat.pdb
+C:\Users\Admin\source\repos\Cheat\Cheat\obj\Debug\Cheat.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Cheat\Cheat\obj\Debug\Cheat.Properties.Resources.resources
+C:\Users\Admin\source\repos\Cheat\Cheat\obj\Debug\Cheat.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Cheat\Cheat\obj\Debug\Cheat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cheat\Cheat\obj\Debug\Cheat.exe
+C:\Users\Admin\source\repos\Cheat\Cheat\obj\Debug\Cheat.pdb
+C:\Users\Admin\source\repos\Cheat\Cheat\obj\Debug\Cheat.Form1.resources
+C:\Users\Admin\source\repos\Cheat\Cheat\obj\Debug\Cheat.csproj.Fody.CopyLocal.cache
